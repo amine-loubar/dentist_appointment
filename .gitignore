@@ -3,5 +3,3 @@ node_modules/
 
 # Ignore environment file
 .env
-
-.gitignore
